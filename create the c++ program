@@ -1,1 +1,9 @@
+#include <iostream>
 
+// Simple C++ program: prints "Hello, World!" and demonstrates basic I/O.
+// File: create the c++ program
+
+int main() {
+    std::cout << "Hello, World!\n";
+    return 0;
+}
